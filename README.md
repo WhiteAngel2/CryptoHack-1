@@ -11,7 +11,7 @@ Soluciones:
 ###### 2.1 ENCODING:
 - [x] [ASCII](https://github.com/h-r0rsch4ch/CryptoHack/blob/main/General/ASCII.py)
 - [x] [Hex](https://github.com/h-r0rsch4ch/CryptoHack/blob/main/General/Hex.py)
-- [ ] Base64
+- [x] [Base64](https://github.com/h-r0rsch4ch/CryptoHack/blob/main/General/Base64.py)
 - [ ] Bytes and Big Integers
 - [ ] Encoding Challenge
 ###### 2.2 XOR:
