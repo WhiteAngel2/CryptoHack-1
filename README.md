@@ -30,3 +30,7 @@ Soluciones:
 - [ ] Privacy-Enhanced Mail?
 - [ ] CERTainly not
 - [ ] Transparency
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Si encuentras algun error o tienes alguna sugerencia, puedes contactarme mediante mis redes sociales:  
+Twitter: [@h_r0rsch4ch](https://twitter.com/h_r0rsch4ch)  
+Discord: h-rorschach#3993
