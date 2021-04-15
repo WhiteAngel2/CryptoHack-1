@@ -12,7 +12,7 @@ Soluciones:
 - [x] [ASCII](https://github.com/h-r0rsch4ch/CryptoHack/blob/main/General/ASCII.py)
 - [x] [Hex](https://github.com/h-r0rsch4ch/CryptoHack/blob/main/General/Hex.py)
 - [x] [Base64](https://github.com/h-r0rsch4ch/CryptoHack/blob/main/General/Base64.py)
-- [ ] Bytes and Big Integers
+- [x] [Bytes and Big Integers](https://github.com/h-r0rsch4ch/CryptoHack/blob/main/General/BytesAndBigIntegers.py)
 - [ ] Encoding Challenge
 ###### 2.2 XOR:
 - [ ] XOR Starter
